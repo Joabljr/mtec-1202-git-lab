@@ -39,3 +39,5 @@ secret number chosen by the computer. Here's how it typically works
 The player enters a guess for the secret number.
 
 The game ends when the player correctly guesses the secret number.
+
+This is my fourth edit in order to get a 2nd edit file version
