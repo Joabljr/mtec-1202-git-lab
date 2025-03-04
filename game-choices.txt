@@ -1,1 +1,11 @@
-	
+Tic-Tac-Toe is a classic, simple two-player game played on a 3x3 grid. 
+The objective is to get three of your symbols in a row—horizontally, vertically, 
+or diagonally—before your opponent does. 
+One player uses X and the other uses O, taking turns placing their symbols in empty squares.
+
+I want to build those games because of their simplicity, how popular the game is, 
+and because it could bring a lot of fun in a short amount of time.
+
+The interaction is the Xs/Os and deciding which box to insert them into
+
+The winning condition is getting 3 of your shapes in a row before the other player does	
