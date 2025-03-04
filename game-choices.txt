@@ -1,3 +1,12 @@
+
+Pong is one of the earliest and most iconic video games, released in 1972 by Atari. It's a digital version of table tennis, designed for two players. The game is played with two people and it is designed to be a game where there is only one winner. In the game, there are two paddles that move up/down and there's one ball that pretty much only side to side. Everything is moving while you are trying to prevent the ball from passing them while trying to score against their opponent.
+
+I want to buold this because of its somplicity, all while still staying a fun game to play.I do thinl starting games from their most simple form is the best, to add more complexities later on.
+
+That type of interaction in this game is the paddles responding to the ball, which causes it to bounce in the opposite direction.
+
+The win condition is scoring and getting a certain amount of points before the other player and losing is vice versa.
+
 Tic-Tac-Toe is a classic, simple two-player game played on a 3x3 grid. 
 The objective is to get three of your symbols in a row—horizontally, vertically, 
 or diagonally—before your opponent does. 
@@ -9,3 +18,24 @@ and because it could bring a lot of fun in a short amount of time.
 The interaction is the Xs/Os and deciding which box to insert them into
 
 The winning condition is getting 3 of your shapes in a row before the other player does	
+
+Snake is a classic arcade game that’s been loved for decades! 
+The premise is simple: you control a snake that moves around the screen, 
+consuming "food" to grow longer. The challenge? 
+Avoid colliding with the walls or running into yourself as 
+the snake gets longer and space becomes tighter.
+
+I want to build this because it is a solo game and depending on how good you are at the game, 
+the longer the game can last for you.
+
+The interaction is when the snake eats food, it grows longer, 
+making it trickier to avoid hitting itself.
+
+Guide the snake to eat as much food as possible while staying alive.
+
+The Guessing Game is a simple, text-based game where the player tries to guess a 
+secret number chosen by the computer. Here's how it typically works
+
+The player enters a guess for the secret number.
+
+The game ends when the player correctly guesses the secret number.
